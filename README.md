@@ -1,1 +1,1 @@
-# uts
+# uts pengolahan citra
